@@ -8,7 +8,7 @@ image:
   repository: quangnghi/demo-app
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1.6"
+  tag: "v1.7"
 
 imagePullSecrets: []
 nameOverride: ""
